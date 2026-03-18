@@ -1,0 +1,7 @@
+"# My OSS Contribution Plan" 
+"" 
+"**Student ID:** 25307106" 
+"" 
+"## Plan for this semester:" 
+"- Learn Git and GitHub basics." 
+"- Contribute to open source projects." 
